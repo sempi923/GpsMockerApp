@@ -93,8 +93,8 @@ import androidx.lifecycle.LifecycleEventObserver
 import com.dev.gpsmocker.service.MockLocationService
 import com.dev.gpsmocker.ui.theme.GpsMockerTheme
 import org.osmdroid.config.Configuration
-import org.osmdroid.events.MapEventsOverlay
 import org.osmdroid.events.MapEventsReceiver
+import org.osmdroid.views.overlay.MapEventsOverlay
 import org.osmdroid.tileprovider.tilesource.TileSourceFactory
 import org.osmdroid.util.GeoPoint
 import org.osmdroid.views.MapView
